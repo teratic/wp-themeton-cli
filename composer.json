@@ -1,0 +1,11 @@
+{
+  "name": "teratic/wp-themeton-cli",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/teratic/themeton-cli",
+  "license": "GPLv2",
+  "description": "WP Themeton CLI",
+  "keywords": ["plugin","wordpress","themeton","cli"],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
